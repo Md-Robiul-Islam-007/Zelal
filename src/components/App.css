@@ -1,0 +1,93 @@
+
+h6 {
+  font-size: 14px;
+}
+.logo {
+  font-size: 26px;
+  font-weight: 800;
+  width: 175px;
+}
+.header-icon-set {
+  font-size: 20px;
+}
+.search-form, .search-form:focus {
+  padding: 1rem 6rem !important;
+}
+.fa-adjust {
+  cursor: pointer;
+}
+
+.search-icon {
+  margin-left: -40px;
+}
+/* Header css end here */
+.body-content {
+  margin-top: 5rem;
+}
+
+/* Left side bar */
+
+.left-menu {
+  background-color: #1e2132;
+  padding: 20px;
+}
+.left-menu-item {
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 30px;
+    line-height: 1.5;
+}
+.left-menu-item:hover {
+   background: #136be0;
+   color: #fff;
+    border-radius: 30px;
+    transition: all 0.50s linear;  
+}
+.left-menu-item:active {
+  background: #136be0;
+  color: #fff;
+   border-radius: 30px;
+   transition: all 0.50s linear;  
+
+}
+/* Post */
+.post-title {
+  font-size: 26px;
+  font-weight: 600;
+  margin: 3px 0 15px 42px;
+}
+.author-name {
+  font-size: 15px;
+}
+.post-date {
+  font-size: 13px;
+  color: #afafaf;
+}
+.card-body {
+  padding-bottom: 15px;
+}
+
+/* Right Sidebar */
+
+.sidebar-title {
+  border-bottom: 1px solid #007bff;
+  padding-bottom: 2px;
+}
+.sidebar-title-bg {
+  background: #007bff;
+  padding: 4px 10px;
+}
+.sidebar-title-bg:before {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  width: 0;
+  height: 0;
+  border-bottom: 29px solid #007bff;
+  border-right: 25px solid transparent;
+  z-index: 1;
+  right: -25px;
+  background-color: transparent !important;
+}
+
