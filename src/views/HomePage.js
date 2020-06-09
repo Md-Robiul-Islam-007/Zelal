@@ -17,11 +17,6 @@ function HomePage() {
                     </Col>
                     <Col xs={6} className="p-0">
                         <PostCard />
-                        <PostCard />
-                        <PostCard />
-                        <PostCard />
-                        <PostCard />
-                        <PostCard />
                     </Col>
                     <Col xs={4} className="pr-0">
                     <RightSidebar />

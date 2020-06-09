@@ -91,3 +91,8 @@ h6 {
   background-color: transparent !important;
 }
 
+/* Loading */
+.loading-img {
+  width: 100%;
+  height: auto;
+}
